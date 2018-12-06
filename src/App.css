@@ -17,6 +17,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-intro {
+  font-size: large;
+}
 
 .App-link {
   color: #61dafb;
